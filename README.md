@@ -15,8 +15,10 @@ You state your goal → AI confirms the plan → Auto-generated in the backgroun
 Closed loop: Conversational Bank Creation + Instant Practice
 <img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/33ec25a1-9668-4e67-bf92-29c492ddccec" />
 **Dialogue 1:**
-<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/f8ed3525-5d3c-4f81-8bf9-5a40c0f64644" />
+
 User provides clear learning goals and background. Based on this, Copilot generates a parameter card for the user to confirm. 
+
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/f8ed3525-5d3c-4f81-8bf9-5a40c0f64644" />
 
 After confirmation → question bank is generated → duplicates are checked and the bank is stored — a seamless process.
 
@@ -32,7 +34,7 @@ Existence precedes essence、Freedom and the burden of choice、The experience o
 **The dialog box shows generation progress, and the user can click “Cancel Generation” to abort the process.**
 
 **Dialogue 2:**
-<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/35b4cd04-c482-4f55-a2ca-8ef22813ad87" />
+
 **User:** "I want to learn basic Python knowledge."
 
 **Copilot:** The user's goal is clear enough → starts constructing the knowledge points.
@@ -40,6 +42,8 @@ Existence precedes essence、Freedom and the burden of choice、The experience o
 **User:** Confirms the knowledge points, number of questions, and subject details.
 
 **Copilot:** Generating…
+
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/35b4cd04-c482-4f55-a2ca-8ef22813ad87" />
 
 **Figure 4:** Rendering the topic page for this Python basics course.
 **Figure 5:** User clicks to start practicing.
