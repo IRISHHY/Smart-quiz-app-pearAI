@@ -18,9 +18,9 @@ Closed loop: Conversational Bank Creation + Instant Practice
 
 User provides clear learning goals and background. Based on this, Copilot generates a parameter card for the user to confirm. 
 
-<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/f8ed3525-5d3c-4f81-8bf9-5a40c0f64644" />
-
 After confirmation → question bank is generated → duplicates are checked and the bank is stored — a seamless process.
+
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/f8ed3525-5d3c-4f81-8bf9-5a40c0f64644" />
 
 **User:** "I have CPTSD and want to learn some relevant knowledge to help me open up and move out of the darkness."
 
