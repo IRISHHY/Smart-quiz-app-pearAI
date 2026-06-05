@@ -70,6 +70,9 @@ Smart recommendations — share with friends, so each can practice on their own.
 <img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/b08f2a86-120c-419b-ae60-f21a9813728d" />
 
 # Gamification & study buddy
+
 Consistency shouldn’t rely on willpower.
-Quiz rewards + random easter eggs + An anxiety‑easing study buddy (a virtual companion) stays with the learner, reducing loneliness – planned for next iteration.
+
+**Quiz rewards + random easter eggs + An anxiety‑easing study buddy (a virtual companion) stays with the learner, reducing loneliness – planned for next iteration.**
+
 <img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/8bf582f7-43b6-4859-a89b-860c115289be" />
