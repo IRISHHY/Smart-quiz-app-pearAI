@@ -1,4 +1,4 @@
-# Smart-quiz-app-pearAI
+# Smart-quiz-app-Mindbank
 
 **Language note:** The app interface is currently in Chinese, as my initial target users are Chinese-speaking underserved learners. Screenshots include English translations of key dialogues for readability. An English version is planned for later.
 
